@@ -1,4 +1,2 @@
 # Customer_Segmentation
-**"Customer Recommendation App for Clustered Data"**
-   - **The "Customer Recommendation App for Clustered Data using Streamlit" is a user-friendly interface that assists in providing personalized product recommendations to customers based on their clustered behavior. The app takes input from users in the form of a User ID and the desired number of recommendations. Leveraging a pre-clustered dataset, the app identifies the cluster to which the user belongs and suggests top product recommendations from within that cluster. This allows businesses to offer tailored suggestions that align with customers' preferences, enhancing their shopping experience and increasing engagement.**
-https://customersegmentationapp.streamlit.app/
+***The "Customer Recommendation App" offers personalized product recommendations based on pre-clustered behavior. Users input their ID and desired recommendations, leveraging clusters for tailored suggestions, enhancing shopping experience and engagement. Try it here:https://customersegmentationapp.streamlit.app/***
